@@ -37,7 +37,8 @@ Under routing, select YES for Should client Internet traffic be routed through t
 ![do_this](https://github.com/vidushi-bansal/Setup-VPN-AWS/blob/main/do_this.png)  
 Scroll down and click Save Settings. Click on Update Running Server to make sure that the changes take place.  
 **Setting up the server is completed here.**  
-But, how are you going to connect to this VPN?  
+But, how are you going to connect to this VPN?
+## Connecting to VPN  
 Open a tab and type:   
 https://Public-ip:943  
 This will take you to the user portal. This is for clients or for the people who wants to connect. Use the same credentials.  
